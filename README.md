@@ -1,6 +1,9 @@
-# Webinar-DL
-Material of the webinar for IEEE SB US on Deep Learning
+# Introducción al Deep Learning
 
-Sesión 1: viernes 10 de abril 2020
+**Material del webinar para IEEE SB US**
 
-Sesión 2: viernes 17 de abril 2020
+¿Sabes que el grupo de Deep Mind de Google construyó una IA que ganó al campeón mundial de GO y Starcraft II? ¿Sabías que existen IAs que colorean vídeos en blanco y negro, o reescalan vídeos antiguos a 4K? ¿Te suena todo el asunto de los Deep Fakes? Esta revolución de la Inteligencia Artificial se ha dado dentro del campo denominado Deep Learning, y le dedicaremos de momento 2 sesiones consecutivas. 
+
+* **Sesión 1:** viernes 10 de abril 2020
+
+* **Sesión 2:** viernes 17 de abril 2020
