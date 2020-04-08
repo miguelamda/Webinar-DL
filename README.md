@@ -7,3 +7,5 @@
 * **Sesión 1:** viernes 10 de abril 2020
 
 * **Sesión 2:** viernes 17 de abril 2020
+
+*Important note: I do not own the copyright of the images employed in the slides and the Jupyter notebooks.*
