@@ -8,4 +8,7 @@
 
 * **Sesión 2:** viernes 17 de abril 2020
 
+
+Libro de referencia: [Deep Learning with Python, F. Chollet](https://www.manning.com/books/deep-learning-with-python), y su [repositorio en GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
 *Important note: I do not own the copyright of the images employed in the slides and the Jupyter notebooks.*
