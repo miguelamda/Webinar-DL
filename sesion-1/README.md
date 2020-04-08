@@ -6,3 +6,11 @@ En esta primera sesión comenzaremos dando una introducción al machine learning
 3.	Optimización de redes neuronales: qué es el backpropagation.
 4.	Entornos software y hardware para Deep Learning.
 5.	Nuestra primera red con Keras.
+
+Inscripción: https://forms.gle/M8YvtLtSRwqLfhFo9 
+
+Enlace a Twitch:  https://www.twitch.tv/ieeesbus 
+
+![Cartel](https://pbs.twimg.com/media/EU7Seo9VAAUeNCD?format=jpg&name=large)
+
+
