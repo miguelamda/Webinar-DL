@@ -7,7 +7,7 @@ En esta primera sesión comenzaremos dando una introducción al machine learning
 4.	Entornos software y hardware para Deep Learning.
 5.	Nuestra primera red con Keras.
 
-Vídeo resubido: https://www.youtube.com/watch?v=yXuTu1GfHos
+Vídeo de la sesión: https://www.youtube.com/watch?v=yXuTu1GfHos
 
 Enlace a Twitch:  https://www.twitch.tv/ieeesbus 
 
