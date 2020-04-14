@@ -12,3 +12,5 @@ En esta segunda sesión sobre Deep Learning continuaremos indagando en estos mod
 Inscripción: https://forms.gle/pqEMzBc5WrUnnFfd6
 
 Enlace a Twitch:  https://www.twitch.tv/ieeesbus 
+
+![Cartel](https://pbs.twimg.com/media/EVe4toMXkAAiIyu?format=jpg&name=large)
