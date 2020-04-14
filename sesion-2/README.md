@@ -7,6 +7,6 @@ En esta segunda sesión sobre Deep Learning continuaremos indagando en estos mod
 4.	Transferencia de aprendizaje
 5.	Redes convolucionales y transfer learning con Keras.
 
-Inscripción: TBA
+Inscripción: https://forms.gle/pqEMzBc5WrUnnFfd6
 
 Enlace a Twitch:  https://www.twitch.tv/ieeesbus 
