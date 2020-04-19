@@ -9,7 +9,7 @@ En esta segunda sesión sobre Deep Learning continuaremos indagando en estos mod
 6. Transferencia de aprendizaje.
 7. Ejercicio 2: transfer learning con Keras.
 
-Inscripción: https://forms.gle/pqEMzBc5WrUnnFfd6
+Vídeo de la sesión: https://www.youtube.com/watch?v=KYHhDN9tq30
 
 Enlace a Twitch:  https://www.twitch.tv/ieeesbus 
 
